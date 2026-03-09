@@ -8,8 +8,6 @@
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SultanUmarCheema&label=Profile+Views&color=00b4d8&style=for-the-badge" alt="profile views" />
-  &nbsp;
   <a href="https://linkedin.com/in/sultan-cheema-umar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
