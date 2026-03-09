@@ -48,18 +48,18 @@ goal_2026   : Ship production-ready security tools
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SultanUmarCheema&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=SultanUmarCheema&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SultanUmarCheema&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SultanUmarCheema&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanUmarCheema&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b4d8&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanUmarCheema&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b4d8&text_color=ffffff&langs_count=8&cache_seconds=1800" />
 </p>
 
 <!-- TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SultanUmarCheema&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SultanUmarCheema&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e4d8a,100:00b4d8&height=2" />
