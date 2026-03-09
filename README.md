@@ -46,19 +46,10 @@ goal_2026   : Ship production-ready security tools
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SultanUmarCheema&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SultanUmarCheema&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanUmarCheema&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b4d8&text_color=ffffff&langs_count=8&cache_seconds=1800" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=SultanUmarCheema&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" />
 </p>
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SultanUmarCheema&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+<!-- TROPHIES removed - replaced with skills showcase below -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e4d8a,100:00b4d8&height=2" />
 
@@ -67,25 +58,23 @@ goal_2026   : Ship production-ready security tools
 
 **Security & Hacking**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=protonvpn&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
 **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi" />
+</p>
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e4d8a,100:00b4d8&height=2" />
 
