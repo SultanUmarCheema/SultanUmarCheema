@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=🛡️+Cybersecurity+Engineer;🔐+API+Security+%26+Penetration+Testing;🧠+AI-Powered+Security+Tools;☁️+AWS+Cloud+Security;🔍+Digital+Forensics+%26+OSINT;⚡+Always+learning+by+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=Cybersecurity+Engineer;API+Security+%26+Penetration+Testing;AI-Powered+Security+Tools;AWS+Cloud+Security;Digital+Forensics+%26+OSINT;Always+learning+by+building" alt="Typing SVG" />
 </p>
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
@@ -26,7 +26,7 @@
 <br/>
 
 <!-- ABOUT -->
-<img align="right" alt="hacking gif" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="coding gif" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ### 👾 About Me
 
@@ -69,10 +69,10 @@ goal_2026   : Ship production-ready security tools
 
 **Security & Hacking**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=protonvpn&logoColor=white)
 
 **Languages & Frameworks**
 
@@ -110,10 +110,10 @@ goal_2026   : Ship production-ready security tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/APIsec_Certified_Practitioner-E63946?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIsec_Certified_Practitioner-E63946?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT_Lab-Cybrary-00b4d8?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital_Forensics-Belkasoft-6A0DAD?style=for-the-badge&logo=forensics&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT_Lab-Cybrary-00b4d8?style=for-the-badge&logo=openstreetmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Forensics-Belkasoft-6A0DAD?style=for-the-badge&logo=files&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethical_Hacking-Ignite_NTF-orange?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
@@ -160,8 +160,14 @@ goal_2026   : Ship production-ready security tools
 ## 🐍 Commit Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SultanUmarCheema/SultanUmarCheema/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SultanUmarCheema/SultanUmarCheema/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SultanUmarCheema/SultanUmarCheema/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SultanUmarCheema/SultanUmarCheema/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
+
+> ⚡ **Activate the snake:** Go to your repo → **Actions** tab → click **Generate Snake Animation** → **Run workflow**. It will auto-update every 12 hours after that.
 
 <!-- FOOTER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e4d8a,100:0D1117&height=120&section=footer" />
